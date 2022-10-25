@@ -18,3 +18,6 @@ unittests.xml
 
 # Ignore vscode settings and debug-options
 .vscode/
+
+# pio pkg builds
+*.tar.gz
